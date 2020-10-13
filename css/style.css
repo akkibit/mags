@@ -1,0 +1,92 @@
+/*****************************************TOP TITLE ELEMENT********************************/
+#title{
+	padding: 3% 10%;
+	background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("back.jpg");
+}
+.navbar.navbar-3 .navbar-toggler-icon {
+background-image: url('https://mdbootstrap.com/img/svg/hamburger1.svg?color=000');
+}
+.navbar-brand{
+	font-size: 3rem;
+	font-family: 'Dancing Script', cursive;
+}
+.nav-item{
+	padding: 0 5%;
+	font-family: 'Source Code Pro', monospace;
+	font-weight: 900;
+}
+.navbar{
+	padding-left: 0;
+}
+.middle{
+	width: 70%;
+	margin: 0 auto 0 auto;
+}
+.container-fluid{
+	width: 100%;
+}
+/***************************************MIDDLE ELEMENT********************************/
+#section2{
+	padding:0 20%;
+	padding-top: 10%;
+	padding-bottom: 13%;
+}
+.design{
+	text-align: center;
+}
+
+h3{
+	padding-top: 5%;
+}
+.col-md-12{
+	margin-top: 7%;
+}
+.icon1{
+	color: grey;
+}
+.icon1:hover{
+	color: #555555;
+}
+/********************************END OF MIDDLE ELEMENT**************************/
+/**************************START OF COROUSEL ELEMENT***************************/
+#section3{
+	padding: 0 10%;
+	background-color: white;
+}
+.carousel-item{
+	padding: 0 10%;
+}
+/************************************END OF CAROUSEL*************************/
+/*****************************BEGINNING OF CARDS****************************/
+#section4{
+	padding: 3% 20%;
+	padding-top: 8%;
+	background-color: white;
+}
+.subs{
+	text-align: center;
+	font-family:'Iceland', cursive; 
+	padding-bottom: 5%;
+}
+.substyle{
+	color: grey;
+	background-color: lightgrey;
+}
+.substyle:hover{
+	color: white;
+}
+/**********************************SECTION 5****************************/
+#section5{
+	padding: 2% 10%;
+	background-color: lightgrey;
+	margin-bottom: 5%;
+}
+.contacts{
+	margin:0 5% 0 5%;
+}
+.icon2{
+	color: #555555;
+}
+.icon2:hover{
+	color: black;
+}
